@@ -109,15 +109,6 @@ This project answers these questions by connecting **marketing, sales, and opera
    * Interactive Power BI dashboard
    * Multi-page navigation (Executive, PPC, Forecast, Stock)
 
----
-
-## 📸 Dashboard Preview
-
-![Executive Summary](amazon-sales-analytics-sprint4-optimization-forecasting/images/executive-summary.png)
-![Funnel Analysis](amazon-sales-analytics-sprint4-optimization-forecasting/images/funnel-analysis.png)
-![PPC Optimization](images/ppc-optimization.png)
-![Forecast](images/forecast.png)
-![Stock & Demand](images/stock-demand.png)
 
 ---
 
