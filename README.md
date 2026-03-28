@@ -173,5 +173,5 @@ The structure, relationships, and analytical logic are preserved to reflect real
 
 ## 🔗 Connect
 
-* LinkedIn: https://www.linkedin.com/in/mesut-karagöz-181733260/
+* LinkedIn: https://www.linkedin.com/feed/update/urn:li:activity:7443669940643028992/?originTrackingId=8YL6luV%2FaCETG%2F2NKJi%2FuQ%3D%3D
 * GitHub: https://github.com/Mst-KrgZ
